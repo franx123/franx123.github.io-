@@ -1,37 +1,96 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Resume</title>
+<link type="text/css" rel="stylesheet" href="css/blue.css" />
+<link type="text/css" rel="stylesheet" href="css/print.css" media="print"/>
 
-You can use the [editor on GitHub](https://github.com/franx123/franx123.github.io-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<link href="css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<link href="css/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.tipsy.js"></script>
+<script type="text/javascript" src="js/cufon.yui.js"></script>
+<script type="text/javascript" src="js/scrollTo.js"></script>
+<script type="text/javascript" src="js/myriad.js"></script>
+<script type="text/javascript" src="js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+<script type="text/javascript">
+		Cufon.replace('h1,h2');
+</script>
+</head>
+<body>
+<!-- Begin Wrapper -->
+<div id="wrapper">
+  <div class="wrapper-top"></div>
+  <div class="wrapper-mid">
+    <!-- Begin Paper -->
+    <div id="paper">
+      <div class="paper-top"></div>
+      <div id="paper-mid">
+        <div class="entry">
+          <div class="self">
+            <h1 class="name">Francisco Javier Ceballos<br />
+              <span>Administrador de sistemas informaticos en red</span></h1>
+            <ul>
+              <li class="ad">c/ Pedro Fernandez Moreno 2</li>
+              <li class="mail">francori@hotmail.es</li>
+              <li class="tel">692514427</li>
+            </ul>
+        <div class="entry">
+          <h2>Sobre Mi</h2>
+          <p>Soy una persona trabajadora, atenta, y organizado, además de puntual, con ganas de
+            aprender y trabajar para poder ascender.</p>
+        </div>
+        <!-- End 1st Row -->
+        <!-- Begin 2nd Row -->
+        <div class="entry">
+          <h2>EDUCATION</h2>
+          <div class="content">
+            <h3>Sep 2018 - Feb 2020</h3>
+            <p>I.E.S Triana <br />
+              <em>Admiinistracion de sistemas informaticos en red</em></p>
+          </div>
+          <div class="content">
+            <h3>Sep 2014 - Jun 2018</h3>
+            <p>I.E.S. Castillo de Cote <br />
+              <em>Bachillerato tecnologico</em></p>
+          </div>
+        </div>
+        <div class="entry">
+          <h2>SKILLS</h2>
+          <div class="content">
+            <h3>Software Knowledge</h3>
+            <ul class="skills">
+              <li>Photoshop</li>
+              <li>Illustrator</li>
+              <li>InDesign</li>
+              <li>Flash</li>
+              <li>Fireworks</li>
+              <li>Dreamweaver</li>
+              <li>After Effects</li>
+              <li>Cinema 4D</li>
+              <li>Maya</li>
+            </ul>
+          </div>
+          <div class="content">
+            <h3>Languages</h3>
+            <ul class="skills">
+              <li>CSS/XHTML</li>
+              <li>PHP</li>
+              <li>JavaScript</li>
+              <li>Ruby on Rails</li>
+              <li>ActionScript</li>
+              <li>C++</li>
+            </ul>
+          </div>
+        </div>
+        <!-- End 4th Row -->
+         <!-- Begin 5th Row -->
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/franx123/franx123.github.io-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- End Wrapper -->
+</body>
+</html>
